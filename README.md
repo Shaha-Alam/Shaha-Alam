@@ -32,4 +32,3 @@ Skills: JS / HTML / CSS/PHP/Python/C#/MySQL
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Shaha-Alam/Shaha-Alam)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Shaha-Alam/Shaha-Alam)  
-
