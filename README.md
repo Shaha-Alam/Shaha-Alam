@@ -3,6 +3,7 @@
 ![Software Engineering](https://pbs.twimg.com/profile_images/1378600091104108550/Fx0gBOz4_400x400.jpg) 
 I am Shaha_Alam from Bangladesh. I am completing my graduate BCSE from IUBAT. I wish to build up a career organization in an organization in a challenging position where I will be able to improve my knowledge, skills, talent, creativity, and sincerity performance by giving my hard work and passion to raise that organization's value.
 
+![Microsoft Office](https://pbs.twimg.com/profile_images/1378600091104108550/Fx0gBOz4_400x400.jpg) 
 Microsoft Office  MS Word, Power Point, MS excel  
 Programming Language  	C, C++, JAVA, C#, PHP/LARAVEL, MYSQL, HTML, CSS, JavaScript, Python and related technologies.
 Tools  	XAMPP, NetBeans, Code Blocks, Dev C++,Visual Studio, MySQL
