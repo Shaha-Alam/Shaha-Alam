@@ -1,8 +1,13 @@
 ### Hi there 👋, I'm Shaha-Alam
 #### Software Engineering
-![Software Engineering](https://pbs.twimg.com/profile_images/1378600091104108550/Fx0gBOz4_400x400.jpg)
-
-I am Shaha_Alam from Bangladesh. I am completing my graduate BCSE from IUBAT. I am an expert in MS Word, PowerPoint, MS Excel, C, C++, JAVA, PHP, Python, C#, XAMPP, NetBeans, Code Blocks, Dev C++, Visual Studio, Pycharm, Turbo C++, MongoDB, MySQL, Windows, Linux, Cisco routers and switches and TCP/IP Protocols. I have about 4 Years’ experience in this platform.
+![Software Engineering](https://pbs.twimg.com/profile_images/1378600091104108550/Fx0gBOz4_400x400.jpg) 
+I am Shaha_Alam from Bangladesh. I am completing my graduate BCSE from IUBAT. I wish to build up a career organization in an organization in a challenging position where I will be able to improve my knowledge, skills, talent, creativity, and sincerity performance by giving my hard work and passion to raise that organization's value.
+Microsoft Office  MS Word, Power Point, MS excel  
+Programming Language  	C, C++, JAVA, C#, PHP/LARAVEL, MYSQL, HTML, CSS, JavaScript, Python and related technologies.
+Tools  	XAMPP, NetBeans, Code Blocks, Dev C++,Visual Studio, MySQL
+Hosting	Firebase, Heroku, Github
+OS  	Windows, Linux  
+Networking  	Cisco routers and switches, TCP/IP Protocols  
 
 Skills: JS / HTML / CSS/PHP/Python/C#/MySQL
 
